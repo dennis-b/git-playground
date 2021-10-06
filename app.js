@@ -1,6 +1,5 @@
 export class Test {
-    constructor(name, test) {
+    constructor(name) {
         this.name = name
-        this.test = test
     }
 }
